@@ -25,6 +25,5 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
       
 </div>  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e4c1f9&height=120&section=footer"/>
 
 
